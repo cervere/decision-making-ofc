@@ -12,3 +12,4 @@ pip install Cython
 python model_setup.py build_ext --inplace ; mv model*cpython*.so model.so
 ```
 
+### Sample run - no learning, random trials, plots showing sample 3 trial activities
