@@ -2,6 +2,7 @@
 Computational model of value-based decision making in the Orbitofrontal Cortex
 
 
+### Some standard dependencies
 ```
 sudo apt-get install python-numpy python-matplotlib ipython ipython-notebook
 pip install Cython
