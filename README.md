@@ -9,6 +9,6 @@ pip install Cython
 
 ### In the project folder
 ```
-python model_setup.py build_ext --inplace ; mv model*.so model.so
+python model_setup.py build_ext --inplace ; mv model*cpython*.so model.so
 ```
 
