@@ -174,7 +174,7 @@ def display_performance(progression, num_trials, filename=None):
 
     fig.patch.set_facecolor('.9')
 
-    plotWeights(num_trials, progression[0], ax_weights)
+    #plotWeights(num_trials, progression[0], ax_weights)
     plotProgression(num_trials, progression[1], ax_performance)
     plotProgression(num_trials, progression[2], ax_value)
     ax_weights.set_xlabel("Trials")
